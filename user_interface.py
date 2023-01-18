@@ -10,7 +10,6 @@ from pyvaloapi import ValorantClient
 from time import sleep
 import random
 import os
-#nuitka --mingw64 --windows-icon-from-ico=icon.ico user_interface.py
 
 #Themes
 themes_list = ['dark_amber.xml',
@@ -72,7 +71,7 @@ class Worker(QObject):
 
     def api_instalock(self):
         while("MatchID" not in unofficial_api.get_current_pregame(unofficial_api.get_current_player_puuid())): pass
-        sleep(random.randint(10000, 50000)/10000) # wait a random amount of time before locking agent to throw off vanguard
+        sleep(random.randint(1, 5)) # wait a random amount of time before locking agent to throw off vanguard
         response_code = unofficial_api.lock_pregame_agent(self.args[0])	
         if response_code == 200:
             self.components[0].setDisabled(False)
