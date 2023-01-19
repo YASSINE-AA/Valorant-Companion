@@ -27,6 +27,9 @@
 
 * Instalocking any currently available agent.
   - Random delay between locks so Vanguard won't recognize a pattern.
+* Dodging Queue
+	- Auto Dodge when lagging.
+	- Dodging with a button.
 * Queue Options
   - Auto Joining queue when someone cancels it.
   - Auto Leaving queue when someone starts it.
