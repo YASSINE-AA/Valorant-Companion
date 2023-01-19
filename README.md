@@ -48,7 +48,7 @@ You can [download](https://github.com/YASSINE-AA/Valorant-Companion/releases/tag
 
 This software uses the following open source package:
 
-- [PyValo API 1.1.3](https://github.com/YASSINE-AA/PyValo)
+- [PyValo API 1.1.5](https://github.com/YASSINE-AA/PyValo)
 
 ## Support
 
