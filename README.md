@@ -42,7 +42,7 @@
 
 ## Download
 
-You can [download](https://github.com/YASSINE-AA/Valorant-Companion/releases/tag/alpha) the latest installable version of Valorant Companion for Windows
+You can [download](https://github.com/YASSINE-AA/Valorant-Companion/releases/tag/v0.0.3) the latest installable version of Valorant Companion for Windows
 
 ## Credits
 
