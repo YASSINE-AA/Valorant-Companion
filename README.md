@@ -57,7 +57,7 @@ This software uses the following open source package:
 
 ## You may also like...
 
-- [PyValo API](https://github.com/amitmerchant1990/pomolectron) - Unofficial Valorant API package for Python.
+- [PyValo API](https://github.com/YASSINE-AA/PyValo) - Unofficial Valorant API package for Python.
 
 ## License
 
